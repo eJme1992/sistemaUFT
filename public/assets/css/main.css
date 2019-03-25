@@ -1,0 +1,33 @@
+.dataTables_wrapper, table{
+  margin-top: 45px;
+}
+th, td {
+  text-align:center;;
+}
+a {
+  color:blue ;
+}
+.profile-usermenu .fa{
+  color: #93a3b5;
+}
+#cm-menu .cm-logo {
+	margin: 5px;
+    display: block;
+    height: 40px;
+    background: url(../../img/logo.png) no-repeat 15px center transparent;
+    background-size: 80%;
+}
+.cm-navbar-primary {
+    color: #fff;
+    background: #65727a;
+    border-color: #65727a;
+}
+
+.btn-primary {
+     background-color:  #65727a;
+}
+.cm-menu-items li.active a {
+    -webkit-box-shadow: inset 3px 0 0 #3498db;
+    box-shadow: inset 3px 0 0 #c934db;
+    color: #333;
+}
